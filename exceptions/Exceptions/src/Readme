@@ -1,0 +1,6 @@
+Exception Handling
+
+--Exceptions are either caught or propagated for proper handling.
+--try-catch blocks are mechanism to catch an exception.
+--Use keyword "throws" to propagate exception.
+--Lines after catch block are propagated if the block (catch) is successful.
